@@ -1,0 +1,8 @@
+# Grafo 1 - social network small
+A,B
+A,C
+B,C
+B,D
+C,E
+D,E
+
