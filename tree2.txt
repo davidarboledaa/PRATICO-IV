@@ -1,0 +1,6 @@
+# Tree 2 - Organigrama
+CEO,CTO
+CEO,CFO
+CTO,Dev1
+CTO,Dev2
+CFO,Acct1
