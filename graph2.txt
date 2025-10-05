@@ -1,0 +1,6 @@
+# Grafo 2 - vuelos (ciudades)
+Quito,Guayaquil
+Quito,Cuenca
+Cuenca,Guayaquil
+Quito,Loja
+Loja,Cuenca
